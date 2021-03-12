@@ -51,13 +51,3 @@ console.log(totalDealer);
 
 
 
-switch (==="yes") {
-  case "yes" :
-  let card5 = drawCard();
-  console.log(card5);
-  totalPlayer = totalPlayer + card5;
-  break;
-  
-  default : 
-  console.log(totalPlayer);
-}
