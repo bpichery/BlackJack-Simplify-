@@ -35,19 +35,11 @@ console.log(totalDealer);
     }
     else {
       console.log(totalPlayer);
-      if(totalPlayer>totalDealer && totalPlayer<21) 
-     
-      else {
-     
+       break;
     }
-    break;
+   
     }
     
-  }
+  
     
 {totalPlayer > totalDealer && totalPlayer<21 ? "You win!" : "You lose"}
-
-
-
-
-
